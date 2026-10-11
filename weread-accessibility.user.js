@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         微信读书 NVDA 无障碍实验版
+// @name         微信读书 NVDA 无障碍
 // @namespace    local.weread.accessibility
 // @version      0.2.0
 // @description  将实际绘制的正文转换成可阅读文本，并补充阅读控件语义
